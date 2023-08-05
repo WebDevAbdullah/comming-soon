@@ -1,1 +1,3 @@
-# Comming Soon Landing Page
+# Comming Soon Page
+
+See my website live: [Comming Soon Page](https://webdevabdullah.github.io/hsoub-comming-soon/index.html)
